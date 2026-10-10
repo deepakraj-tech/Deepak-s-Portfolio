@@ -106,13 +106,13 @@ these steps.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/pgdeepakraj-bot/Deepak-s-Portfolio/
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd YOUR_REPOSITORY_NAME
+   cd Deepak-s-Portfolio
    ```
 
 3. Open `index.html` in your browser.
@@ -145,10 +145,10 @@ actual files and folders in your repository.*
 ## Connect With Me
 
 - **GitHub:*https://github.com/pgdeepakraj-bot* 
-- **Portfolio:*https://deepakportfolio-ten.vercel.app/* YOUR_LIVE_PORTFOLIO_URL
-- **Instagram:** YOUR_INSTAGRAM_URL
-- **LinkedIn:** YOUR_LINKEDIN_URL
-- **Email:** YOUR_PUBLIC_EMAIL
+- **Portfolio:*https://deepakportfolio-ten.vercel.app/* 
+- **Instagram:*https://www.instagram.com/its_deepaxz?vrfl=cXhteHJsNXQ4YWNr*
+- **LinkedIn:**
+- **Email:*pg.deepakraj@gmail.com*
 
 ---
 
