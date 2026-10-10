@@ -147,7 +147,7 @@ actual files and folders in your repository.*
 - GitHub : *https://github.com/pgdeepakraj-bot* 
 - Portfolio : *https://deepakportfolio-ten.vercel.app/* 
 - Instagram : *https://www.instagram.com/its_deepaxz?vrfl=cXhteHJsNXQ4YWNr*
-- **LinkedIn : **
+- LinkedIn : 
 - Email : *pg.deepakraj@gmail.com*
 
 ---
