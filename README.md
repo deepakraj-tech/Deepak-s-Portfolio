@@ -144,8 +144,8 @@ actual files and folders in your repository.*
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **Portfolio:** YOUR_LIVE_PORTFOLIO_URL
+- **GitHub:*https://github.com/pgdeepakraj-bot* 
+- **Portfolio:*https://deepakportfolio-ten.vercel.app/* YOUR_LIVE_PORTFOLIO_URL
 - **Instagram:** YOUR_INSTAGRAM_URL
 - **LinkedIn:** YOUR_LINKEDIN_URL
 - **Email:** YOUR_PUBLIC_EMAIL
