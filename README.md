@@ -144,11 +144,11 @@ actual files and folders in your repository.*
 
 ## Connect With Me
 
-- **GitHub:*https://github.com/pgdeepakraj-bot* 
-- **Portfolio:*https://deepakportfolio-ten.vercel.app/* 
-- **Instagram:*https://www.instagram.com/its_deepaxz?vrfl=cXhteHJsNXQ4YWNr*
-- **LinkedIn:**
-- **Email:*pg.deepakraj@gmail.com*
+- GitHub : *https://github.com/pgdeepakraj-bot* 
+- Portfolio : *https://deepakportfolio-ten.vercel.app/* 
+- Instagram : *https://www.instagram.com/its_deepaxz?vrfl=cXhteHJsNXQ4YWNr*
+- **LinkedIn : **
+- Email : *pg.deepakraj@gmail.com*
 
 ---
 
