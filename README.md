@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://deepakportfolio-ten.vercel.app/">View Live Portfolio</a>
   ·
-  <a href="https://github.com/pgdeepakraj-bot">GitHub Profile</a>
+  <a href="https://github.com/pgdeepakraj-tech">GitHub Profile</a>
 </p>
 
 ---
@@ -106,7 +106,7 @@ these steps.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/pgdeepakraj-bot/Deepak-s-Portfolio/
+   git clone https://github.com/pgdeepakraj-tech/Deepak-s-Portfolio/
    ```
 
 2. Open the project folder:
@@ -144,7 +144,7 @@ actual files and folders in your repository.*
 
 ## Connect With Me
 
-- GitHub : *https://github.com/pgdeepakraj-bot* 
+- GitHub : *https://github.com/pgdeepakraj-tech* 
 - Portfolio : *https://deepakportfolio-ten.vercel.app/* 
 - Instagram : *https://www.instagram.com/its_deepaxz?vrfl=cXhteHJsNXQ4YWNr*
 - LinkedIn : 
